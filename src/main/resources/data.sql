@@ -1,0 +1,1 @@
+insert into post(name, writedate, content) values ('전남친', '2023-03-17 00:17:39', '행복하게 잘 살아라!!!');
